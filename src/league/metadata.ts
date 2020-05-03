@@ -1,0 +1,2 @@
+export type RegionId = "br1" | "eun1" | "euw1" | "jp1" | "kr" | "la1" | "la2" | "na1" | "na" | "oc1" | "tr1" | "ru" | "pbe1";
+export type Region = "br" | "eune" | "euw" | "jp" | "kr" | "lan" | "las" | "na" | "oce" | "tr" | "ru" | "pbe";

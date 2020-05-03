@@ -1,14 +1,18 @@
 {
   "name": "thresh-api",
   "version": "1.0.0a",
-  "description": "",
+  "description": "A Typescript Riot Games API",
+  "author": "Kirynn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kirynn/thresh"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "author": "Kirynn",
-  "license": "ISC",
   "dependencies": {
     "axios": "0.19.2"
   },
